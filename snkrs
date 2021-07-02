@@ -1,13 +1,13 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = ""
+WEBHOOK = "https://discord.com/api/webhooks/860481005672202261/MORDG0FRXTJ0nqRK4XiHkW6xXuQSPMzvSNZRvXk5M3i5-DdLoI-Tt3575CJnzPCOVR7G"
 
 # --------------------- LOCATION ---------------------
 # This is your location code according to Location-Code-List.md
-LOCATION = "GB"
+LOCATION = "MY"
 
 # --------------------- SNKRS BOT FEATURES ---------------------
-LOC = "GB"
-LAN = "en-GB"
+LOC = "MY"
+LAN = "en-MY"
 
 # --------------------- DELAY ---------------------
 # This is the delay between checks. If you start to get error messages, it's best to increase this.
