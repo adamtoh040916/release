@@ -1,5 +1,5 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = "https://discord.com/api/webhooks/860481005672202261/MORDG0FRXTJ0nqRK4XiHkW6xXuQSPMzvSNZRvXk5M3i5-DdLoI-Tt3575CJnzPCOVR7G"
+WEBHOOK = ""
 
 # --------------------- LOCATION ---------------------
 # This is your location code according to Location-Code-List.md
